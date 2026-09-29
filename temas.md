@@ -1,11 +1,6 @@
 [<-- Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
-
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
-
 ### Mis aficiones · 18/09/2026 después de Cristo
 
 Me gusta nadar. Voy a nadar de vez en cuando. Normalmente voy a nadar una vez a la semana. Siempre nadé, pero nunca competitivamente. No voy a cursillos ni nada como se puede suponer por lo que dije antes de que "Voy a nadar de vez en cuando". Me gusten los bollos preñaos.
