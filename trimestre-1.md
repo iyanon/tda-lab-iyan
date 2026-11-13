@@ -15,3 +15,19 @@
 - **Qué hice:** copiar el Lab de partida y ponerle mi nombre.
 
 ---
+
+### 21/09 · Nos Conocemos
+
+- **Aplicación:** Word y Bitmoji
+- **Entregado:** un archivo .docx
+- **Qué hice:** crear un árbol de carpetas y un Bitmoji, además de responder algunas preguntas sobre mí.
+
+---
+
+### 05/10 · Premios Princesa
+
+- **Aplicación:** Github
+- **Entregado:** el enlace a la página web propia de mi repositorio
+- **Qué hice:** investigar sobre uno de los premiados en los premios Princesa de Asturias 2026, en mi caso Ghibli, y escribir la información en temas.md junto con una imagen de Wikimedia
+
+---
